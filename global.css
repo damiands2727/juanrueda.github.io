@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background:linear-gradient(rgba(41, 41, 41, 0.671),rgba(41, 41, 41, 0.671)),url(soldadura-chispas.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+}

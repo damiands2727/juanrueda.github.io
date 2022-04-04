@@ -1,0 +1,23 @@
+h2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px;
+    vertical-align: middle;
+}
+.tituloprincipal {
+    display: block;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgba(230, 229, 229, 0.863);
+    font-size: 50px;
+    text-transform: uppercase;
+    margin: 5%;
+    padding: 15px 15px 10px 15px;
+    box-shadow: 0 3px 5px;
+    border-radius: 10px;
+}
+.tituloprincipal h2{
+    margin: 5px;
+}
